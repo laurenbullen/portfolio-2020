@@ -1,8 +1,8 @@
 h1 {
-    text-align: center;
-    font-size: 120px;
-    font-family: 'Antic Didone', serif;
-    color: rgb(243, 241, 236);
-    text-shadow: 0.5px 0.5px rgba(0, 0, 0, 0.733);
+    text-align: left;
+    font-size: 80px;
+    font-family: 'Josefin Sans', sans-serif;
+    /* color: rgb(243, 241, 236);
+    text-shadow: 0.5px 0.5px rgba(0, 0, 0, 0.733); */
     hover: pointer
 }
