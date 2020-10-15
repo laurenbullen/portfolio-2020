@@ -6,3 +6,7 @@ h1 {
     text-shadow: 0.5px 0.5px rgba(0, 0, 0, 0.733); */
     hover: pointer
 }
+
+.nav-link {
+    margin-left: 1000px;
+}
